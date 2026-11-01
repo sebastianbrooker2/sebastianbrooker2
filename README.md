@@ -1,4 +1,4 @@
-Koi Fish grows with commits !
+Just discovered I could do this isnt it cool
 
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="My koi" />
